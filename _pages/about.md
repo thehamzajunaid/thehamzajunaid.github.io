@@ -2,11 +2,11 @@
 layout: about
 title: About
 permalink: /
-subtitle: Software Engineer with 2.5+ years of experience building solutions using modern tools.
+subtitle: Software Engineer @ <a href='https://datasciencedojo.com/'>Data Science Dojo</a> with 2.5+ years of experience building solutions using modern tools.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile_1.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>📧 <a href="mailto:junaidhamza4@gmail.com" style="color: inherit; text-decoration: underline; underline">junaidhamza4@gmail.com</a> </p>    
@@ -16,12 +16,12 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 
 announcements:
-  enabled: false # includes a list of news items
+  enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: false
+  enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
