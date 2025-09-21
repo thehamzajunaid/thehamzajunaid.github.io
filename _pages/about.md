@@ -26,15 +26,15 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I specialize in Software Development, Microsoft Azure and Large Language Models (LLMs), with expertise in Python, and JavaScript programming languages. I’m currently working with Python, Generative AI, and Microsoft Azure. My recent work includes developing solutions with Django, Asp.net core, alongwith deploying and maintaining their infrastructure on Azure Cloud.
+I specialize in Software Development with expertise in Python, JavaScript and C# programming languages. My recent work includes developing Generative AI solutions with FastAPI and Django as well as CRM platforms with Asp.net core, alongwith deploying and maintaining their infrastructure on Microsoft Azure Cloud.
 
-I am passionate about advancing AI-driven automation and bridging the gap between AI and public by the use of Cloud and Distributed System Technologies. I’m involved in independent research on LLMs and enhancing AI solutions which complements democratizing the use of AI.
+I love working on AI driven automations and advocate for bridging the gap between Generative AI and public by the use of Cloud and Distributed Systems. I believe in technology for all. I’m involved in independent research on LLMs and how to develop infrastructure that complements democratizing the use of this technology.
 
-<h3><strong>Research Interests</strong></h3>
-<p>My research interests encompass a range of topics within AI and Machine Learning, including:</p>
+<h4><strong>Research Interests</strong></h4>
+<p>My research interests encompass a range of topics including:</p>
 <ul>
     <li><b><strong>Artificial Intelligence</strong></b></li>
     <li><b><strong>Generative AI</strong></b></li>
+    <li><b><strong>Distributed Computing Systems</strong></b></li>
     <li><b><strong>Natural Language Processing</strong></b></li>
-    <li><b><strong>Computer Vision</strong></b></li>
 </ul>
