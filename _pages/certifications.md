@@ -6,6 +6,26 @@ nav: true
 nav_order: 4
 ---
 
+
+<div class="project0">
+    <div class="image-container0">
+        {% include figure.liquid loading="eager" path="assets/img/az400.svg"%}
+    </div>
+    <div class="project-details0">
+        <div class="heading">
+        <a href="https://learn.microsoft.com/en-us/credentials/certifications/devops-engineer/"><h3>Microsoft Certified: Azure DevOps Expert (AZ-204)</h3></a>
+        <span class="timeline">September 2025</span>
+        </div>
+        <p><strong>Expert certification for designing and implementing DevOps practices on Microsoft Azure</strong></p>     
+        <ul>
+            <li>Validates ability to plan, create, and manage CI/CD pipelines with Azure DevOps, GitHub Actions, and related Azure services</li>
+            <li>Demonstrates expertise in infrastructure as code, release management, monitoring, and continuous feedback for cloud applications</li>
+            <li>Highlights skills in integrating development and operations teams while applying security, compliance, and automation across the software lifecycle</li>
+        </ul>
+        <a href="https://learn.microsoft.com/api/credentials/share/en-us/HamzaJunaid-1727/E551BE799D738DEF?sharingId=75DB37613D2DDE10"><button>View Credentials</button></a>
+    </div>
+</div>
+
 <div class="project0">
     <div class="image-container0">
         {% include figure.liquid loading="eager" path="assets/img/az204.svg"%}
