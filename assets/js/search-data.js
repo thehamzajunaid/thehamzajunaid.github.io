@@ -164,6 +164,13 @@ ninja.data = [{
           window.open("https://www.linkedin.com/in/thehamzajunaid", "_blank");
         },
       },{
+        id: 'social-medium',
+        title: 'Medium',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://medium.com/@hamzajunaid", "_blank");
+        },
+      },{
         id: 'social-custom_social',
         title: 'Custom_social',
         section: 'Socials',
