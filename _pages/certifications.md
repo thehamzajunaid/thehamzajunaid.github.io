@@ -13,7 +13,7 @@ nav_order: 4
     </div>
     <div class="project-details0">
         <div class="heading">
-        <a href="https://learn.microsoft.com/en-us/credentials/certifications/devops-engineer/"><h3>Microsoft Certified: Azure DevOps Expert (AZ-204)</h3></a>
+        <a href="https://learn.microsoft.com/en-us/credentials/certifications/devops-engineer/"><h3>Microsoft Certified: Azure DevOps Expert (AZ-400)</h3></a>
         <span class="timeline">September 2025</span>
         </div>
         <p><strong>Expert certification for designing and implementing DevOps practices on Microsoft Azure</strong></p>     
