@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Got promoted to Software Engineer at Data Science Dojo
+Got promoted to Software Engineer L1 at Data Science Dojo

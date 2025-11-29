@@ -28,13 +28,13 @@ latest_posts:
 
 I specialize in Software Development with expertise in Python, JavaScript and C# programming languages. My recent work includes developing Generative AI solutions with FastAPI and Django as well as CRM platforms with Asp.net core, alongwith deploying and maintaining their infrastructure on Microsoft Azure Cloud.
 
-I love working on AI driven automations and advocate for bridging the gap between Generative AI and public by the use of Cloud and Distributed Systems. I believe in technology for all. I’m involved in independent research on LLMs and how to develop infrastructure that complements democratizing the use of this technology.
+I love working on AI driven automations and advocate for bridging the gap between AI and general public. I believe in technology for all. I’m involved in independent research on LLMs and how to develop infrastructure that complements democratizing the use of this technology.
 
 <h4><strong>Research Interests</strong></h4>
 <p>My research interests encompass a range of topics including:</p>
 <ul>
     <li><b><strong>Artificial Intelligence</strong></b></li>
     <li><b><strong>Generative AI</strong></b></li>
-    <li><b><strong>Distributed Computing Systems</strong></b></li>
     <li><b><strong>Natural Language Processing</strong></b></li>
+    <li><b><strong>Distributed Computing Systems</strong></b></li>
 </ul>
