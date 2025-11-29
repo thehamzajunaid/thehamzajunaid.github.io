@@ -94,8 +94,11 @@ ninja.data = [{
           section: "News",},{id: "news-received-dedication-ownership-and-trust-dot-award-for-the-2nd-quarter-of-2024",
           title: 'Received Dedication, Ownership and Trust (DOT) Award for the 2nd quarter of 2024....',
           description: "",
-          section: "News",},{id: "news-got-promoted-to-software-engineer-at-data-science-dojo",
-          title: 'Got promoted to Software Engineer at Data Science Dojo',
+          section: "News",},{id: "news-got-promoted-to-software-engineer-l1-at-data-science-dojo",
+          title: 'Got promoted to Software Engineer L1 at Data Science Dojo',
+          description: "",
+          section: "News",},{id: "news-authored-a-mini-survey-research-paper-practical-approaches-to-democratizing-llms-efficiency-retrieval-and-distributed-serving",
+          title: 'Authored a mini survey research paper: ‘Practical Approaches to Democratizing LLMs: Efficiency, Retrieval,...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
@@ -169,6 +172,13 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://medium.com/@hamzajunaid", "_blank");
+        },
+      },{
+        id: 'social-researchgate',
+        title: 'ResearchGate',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.researchgate.net/profile/Hamza-Junaid-3/", "_blank");
         },
       },{
         id: 'social-custom_social',
