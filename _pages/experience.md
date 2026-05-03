@@ -19,7 +19,7 @@ nav_order: 2
         </div>
         <p>Position: <strong> Software Engineer </strong></p>
         <p>Employment Type: <strong> Full Time </strong></p>
-        <p>Promotions: <strong> Trainee, Associate, L1 </strong></p>
+        <p>Promotions: <strong> Trainee, Associate, L1, L2 </strong></p>
         <p>Location: <strong> Redmond, USA and Islamabad, Pakistan (Remote) </strong></p>
         <p><b>Responsibilities:</b></p>
         <ul>
