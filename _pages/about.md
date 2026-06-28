@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Software Engineer @ <a href='https://datasciencedojo.com/'>Data Science Dojo</a> with 2.5+ years of experience building solutions using modern tools.
+subtitle: Software Engineer @ <a href='https://datasciencedojo.com/'>Data Science Dojo</a> with 3+ years of experience building solutions using modern tools.
 
 profile:
   align: right
