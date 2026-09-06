@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-how-i-moved-an-azure-virtual-machine-between-resource-groups-of-different-subscriptions-without-downtime",
+        },{id: "post-your-web-app-doesn-39-t-handle-http-requests-something-else-does",
+        
+          title: 'Your Web App Doesn&#39;t Handle HTTP Requests. Something Else Does. <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "Blog",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://medium.com/@hamzajunaid/your-web-app-doesnt-handle-http-requests-something-else-does-00ea4e398727", "_blank");
+          
+        },
+      },{id: "post-how-i-moved-an-azure-virtual-machine-between-resource-groups-of-different-subscriptions-without-downtime",
         
           title: 'How I Moved an Azure Virtual Machine Between Resource Groups of different Subscriptions(Without... <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
@@ -53,17 +64,6 @@ ninja.data = [{
         handler: () => {
           
             window.open("https://medium.com/@hamzajunaid/how-i-moved-an-azure-virtual-machine-between-resource-groups-of-different-subscriptions-without-f77b3a83f151", "_blank");
-          
-        },
-      },{id: "post-what-actually-is-acid-in-databases",
-        
-          title: 'What actually is ACID in databases? <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
-        
-        description: "Blog",
-        section: "Posts",
-        handler: () => {
-          
-            window.open("https://dev.to/hamzaj/what-actually-is-acid-in-databases-45ol", "_blank");
           
         },
       },{id: "post-raw-sql-or-orms-why-orms-are-a-preferred-choice",
@@ -91,17 +91,20 @@ ninja.data = [{
           section: "News",},{id: "news-joined-data-science-dojo-as-associate-software-engineer",
           title: 'Joined Data Science Dojo as Associate Software Engineer',
           description: "",
-          section: "News",},{id: "news-received-dedication-ownership-and-trust-dot-award-for-the-2nd-quarter-of-2024",
-          title: 'Received Dedication, Ownership and Trust (DOT) Award for the 2nd quarter of 2024....',
+          section: "News",},{id: "news-received-dedication-ownership-and-trust-dot-award",
+          title: 'Received Dedication, Ownership and Trust (DOT) Award.',
           description: "",
-          section: "News",},{id: "news-got-promoted-to-software-engineer-l1-at-data-science-dojo",
-          title: 'Got promoted to Software Engineer L1 at Data Science Dojo',
+          section: "News",},{id: "news-promoted-to-software-engineer-at-data-science-dojo",
+          title: 'Promoted to Software Engineer at Data Science Dojo',
           description: "",
           section: "News",},{id: "news-authored-a-mini-survey-research-paper-practical-approaches-to-democratizing-llms-efficiency-retrieval-and-distributed-serving",
           title: 'Authored a mini survey research paper: ‘Practical Approaches to Democratizing LLMs: Efficiency, Retrieval,...',
           description: "",
           section: "News",},{id: "news-promoted-to-software-engineer-ii-at-data-science-dojo",
           title: 'Promoted to Software Engineer II at Data Science Dojo.',
+          description: "",
+          section: "News",},{id: "news-promoted-to-senior-software-engineer-at-data-science-dojo",
+          title: 'Promoted to Senior Software Engineer at Data Science Dojo.',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
