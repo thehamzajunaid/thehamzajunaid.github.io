@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Promoted to **Software Engineer II** at Data Science Dojo.
+Promoted to Software Engineer II at Data Science Dojo.
