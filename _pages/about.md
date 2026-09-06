@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Software Engineer @ <a href='https://datasciencedojo.com/'>Data Science Dojo</a> with 3+ years of experience building solutions using modern tools.
+subtitle: Senior Software Engineer @ <a href='https://datasciencedojo.com/'>Data Science Dojo</a> with 3+ years of experience building solutions using modern tools.
 
 profile:
   align: right
@@ -23,7 +23,7 @@ announcements:
 latest_posts:
   enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  limit: 4 # leave blank to include all the blog posts
 ---
 
 I specialize in Software Development with expertise in Python, JavaScript and C# programming languages. My recent work includes developing Generative AI solutions with FastAPI and Django as well as CRM platforms with Asp.net core, alongwith deploying and maintaining their infrastructure on Microsoft Azure Cloud.

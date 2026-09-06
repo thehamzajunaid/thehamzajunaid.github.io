@@ -17,15 +17,16 @@ nav_order: 2
             <span class="timeline">Oct 2023 – Present</span>
         </div>
         </div>
-        <p>Position: <strong> Software Engineer </strong></p>
+        <p>Position: <strong> Senior Software Engineer </strong></p>
         <p>Employment Type: <strong> Full Time </strong></p>
-        <p>Promotions: <strong> Trainee, Associate, L1, L2 </strong></p>
+        <p>Promotions: <strong> Trainee, Associate, L1, L2, Senior </strong></p>
         <p>Location: <strong> Redmond, USA and Islamabad, Pakistan (Remote) </strong></p>
         <p><b>Responsibilities:</b></p>
         <ul>
-          <li>Developed and maintained scalable back-end systems using ASP.NET Core for client projects and Django REST Framework alongwith FastAPI for our product <a href="https://ejento.ai/"> Ejento</a></li>
-          <li>Streamlined the API lifecycle by adopting a Swagger-first approach, authoring and automating API <a href="https://api.ejento.ai/">documentation </a>. Introduced API testing practices across teams. Leveraged Azure API Management to enable seamless integration, resolve caching issues, and improve performance and reliability.</li>
-          <li>Actively involved in PR reviews, ensuring seamless delivery of front end, back end, and core features.</li>
+          <li>Progressed from Associate Software Engineer to Senior Software Engineer over the course of ~3 years, now leading a 6-engineer Platform Team and setting technical direction for shared platform capabilities on our product <a href="https://ejento.ai/">Ejento</a>.</li>
+          <li>Delivered major platform initiatives including LLM cost visibility &amp; governance, fine-grained Permission Sets authorization, an Agent Staging &amp; Publishing lifecycle, and a client-agnostic MCP server with ReBAC authorization.</li>
+          <li>Grew into engineering leadership, mentoring and managing teams of 4-6 engineers while owning technical roadmaps, sprint planning, and cross-functional alignment between product and engineering.</li>
+          <li>Built early foundational capabilities such as a multi-lingual form builder, unified reporting/export system, and Swagger-first API standardization, earning the DOT Award for consistent delivery.</li>
         </ul>
     </div>
 </div>
