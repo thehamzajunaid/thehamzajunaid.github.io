@@ -18,7 +18,7 @@ social: false # includes social icons at the bottom of the page
 announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  limit: 4 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
   enabled: true
@@ -26,7 +26,7 @@ latest_posts:
   limit: 4 # leave blank to include all the blog posts
 ---
 
-I specialize in Software Development with expertise in Python, JavaScript and C# programming languages. My recent work includes developing Generative AI solutions with FastAPI and Django as well as CRM platforms with Asp.net core, alongwith deploying and maintaining their infrastructure on Microsoft Azure Cloud.
+Over the past ~3 years at Data Science Dojo, I've grown from Associate to Senior Software Engineer and now lead the Platform Team behind [Ejento AI](https://ejento.ai/). I specialize in Software Development with expertise in Python, JavaScript and C# programming languages. My recent work includes developing Generative AI solutions with FastAPI and Django as well as CRM platforms with Asp.net core, alongwith deploying and maintaining their infrastructure on Microsoft Azure Cloud.
 
 I love working on AI driven automations and advocate for bridging the gap between AI and general public. I believe in technology for all. I’m involved in independent research on LLMs and how to develop infrastructure that complements democratizing the use of this technology.
 
@@ -35,6 +35,6 @@ I love working on AI driven automations and advocate for bridging the gap betwee
 <ul>
     <li><b><strong>Artificial Intelligence</strong></b></li>
     <li><b><strong>Generative AI</strong></b></li>
-    <li><b><strong>Natural Language Processing</strong></b></li>
     <li><b><strong>Distributed Computing Systems</strong></b></li>
+    <li><b><strong>High Performance Computing</strong></b></li>
 </ul>
